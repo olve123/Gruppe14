@@ -1,1 +1,88 @@
 @charset "utf-8" ;
+
+body{
+	background-image: url("../pictures/kart.png");
+	background-repeat: no-repeat;
+	border: 32px solid rgba(0,0,0,0.7);
+	margin : 0;
+	background-color: black;
+	}
+
+	.knapper{
+		height: 10px;
+		width: 10px;
+		background-color: red;
+		position: absolute;
+		border-radius: 50px;
+		-webkit-transition: all 0.5s;
+	}
+	.knapper:hover{
+		background-color: gray;
+		width: 900px;
+		height: 450px;
+		border-radius: 0;
+		-webkit-transition: all 1s;
+	
+
+
+	}
+	h4{
+		opacity: 0;
+		-webkit-transition: all 1s;
+		left: 100px;
+		position: relative;
+	}
+
+	.knapper:hover h4{
+		opacity: 1
+	}
+
+	.bilder{
+		opacity: 0;
+		margin-left: 30px;
+		-webkit-transition: all 1s;
+		border: 2px solid black;
+		position: absolute;
+	}
+	.knapper:hover .bilder{
+		opacity: 1;
+		-webkit-transition: all 1s;
+	}
+	img{
+		height: 200px;
+	}
+	.tekstfelt{
+		
+		height: 400px;
+		width: 430px;
+		right: 20px;
+		top: 20px;
+		position: absolute;
+		border: 2px solid black;
+		opacity: 0;
+		
+
+	}
+	.knapper:hover .tekstfelt{
+		opacity: 1;
+		-webkit-transition: all 1s;
+		background-color: white;
+	}
+	h5{
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+	}
+
+/*----------------------------------------------------------------------------------------------*/
+
+
+	#knapp1{
+		left: 730px;
+		top: 380px;
+	}
+
+	#knapp2{
+		left: 750px;
+		top: 20px;
+	}
