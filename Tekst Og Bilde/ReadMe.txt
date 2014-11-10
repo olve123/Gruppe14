@@ -1,0 +1,1 @@
+Her legger vi all informasjon om stedene vi har utvalgt
