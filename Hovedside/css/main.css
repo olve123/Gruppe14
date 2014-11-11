@@ -101,6 +101,36 @@ body{
 		opacity: 1;
 		display:block;
 	}
+	#sidebar{
+		height: 500px;
+		width: 20px;
+		background-color: white;
+		position: absolute;
+		right: 0;
+		top: 200px;
+		-webkit-transition: all 1s;
+
+	}
+	#sidebar:hover{
+		width: 200px;
+		-webkit-transition: all 1s;
+	}
+	.lenker{
+		opacity: 0;
+	}
+
+	#skole{
+		display: none;
+	}
+
+	#sidebar:hover .lenker{
+		opacity: 1;
+
+	}
+	#skolelink:target ~ #skole{
+		display: block;
+	}
+
 
 /*----------------------------------------------------------------------------------------------*/
 
