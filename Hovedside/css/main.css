@@ -6,9 +6,15 @@ body{
 	/*border: 32px solid rgba(0,0,0,0.7);*/
 	margin : 0;
 	background-color: black;
-	background-size: auto;
 	}
 	/*Felles klasse for alle knappene*/
+
+
+	#bg {
+		position: relative;
+	}
+
+
 	.knapper{
 		height: 15px;
 		width: 15px;
@@ -134,11 +140,3 @@ body{
 	}
 
 	#knapp2{
-		right: 915px;
-		bottom: 290px;
-	}
-
-	#knapp3{
-		right: 50px;
-		top: 50px;
-	}
