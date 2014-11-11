@@ -3,7 +3,7 @@
 body{
 	background-image: url("../pictures/kart.png");
 	background-repeat: no-repeat;
-	border: 32px solid rgba(0,0,0,0.7);
+	/*border: 32px solid rgba(0,0,0,0.7);*/
 	margin : 0;
 	background-color: black;
 	}
@@ -21,7 +21,7 @@ body{
 		background-color: gray;
 		width: 900px;
 		height: 450px;
-		border-radius: 0;
+		border-radius: 5px;
 		-webkit-transition: all 1s;
 
 	}
@@ -85,7 +85,7 @@ body{
 	}
 	.knapper:hover h5{
 		display: block;
-
+		-webkit-transition: all 1s;
 	}
 
 	#bildetekst{
@@ -100,6 +100,7 @@ body{
 	.knapper:hover #bildetekst{
 		opacity: 1;
 		display:block;
+		-webkit-transition: all 1s;
 	}
 	#sidebar{
 		height: 500px;
@@ -118,19 +119,10 @@ body{
 	.lenker{
 		opacity: 0;
 	}
-
-	#skole{
-		display: none;
-	}
-
 	#sidebar:hover .lenker{
 		opacity: 1;
-
+		-webkit-transition: all 1s;
 	}
-	#skolelink:target ~ #skole{
-		display: block;
-	}
-
 
 /*----------------------------------------------------------------------------------------------*/
 
