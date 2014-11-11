@@ -6,8 +6,9 @@ body{
 	/*border: 32px solid rgba(0,0,0,0.7);*/
 	margin : 0;
 	background-color: black;
+	background-size: auto;
 	}
-
+	/*Felles klasse for alle knappene*/
 	.knapper{
 		height: 15px;
 		width: 15px;
@@ -15,6 +16,7 @@ body{
 		position: absolute;
 		border-radius: 50px;
 		-webkit-transition: all 0.5s;
+		margin: 0;
 		
 	}
 	.knapper:hover{
@@ -42,7 +44,6 @@ body{
 		opacity: 1;
 		display:block;
 	}
-
 
 	.bilder{
 		opacity: 0;
@@ -135,4 +136,9 @@ body{
 	#knapp2{
 		right: 915px;
 		bottom: 290px;
+	}
+
+	#knapp3{
+		right: 50px;
+		top: 50px;
 	}
