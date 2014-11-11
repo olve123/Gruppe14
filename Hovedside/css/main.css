@@ -8,6 +8,10 @@ body{
 	background-color: black;
 	}
 
+	#bg {
+		position: relative;
+	}
+
 	.knapper{
 		height: 15px;
 		width: 15px;
@@ -133,6 +137,6 @@ body{
 	}
 
 	#knapp2{
-		right: 915px;
-		bottom: 290px;
+		left: 760px;
+		top: 380px;
 	}
