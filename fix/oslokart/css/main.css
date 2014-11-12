@@ -30,11 +30,11 @@ body{
 	width: 150px;
 }
 
-.sidebarMenu {
+li {
 	display: none;
 }
 
-.sidebarMenu:hover ~ #sidebar {
+#sidebar:hover li {
 	display: block;
 }
 
