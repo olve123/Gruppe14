@@ -2,7 +2,7 @@
 		<div class ="knapper" id = "knapp5"><a class = "open" href="#knapp5">her</a></div>
 		<div id = "centerbox5">
 			<h4 class = "tittel">Slottsparken</h4>
-			<img class = "bilder" src="../pictures/Slottsparken.jpg">
+			<img class = "bilder" src="../pictures/Slottsparken.jpg" alt="bilde av slottsparken">
 			<h5 class = "bildetekst">Dammen Kongespeilet ligger i Dronningparken som er en del av Slottsparken bak Slottet.</h5>
 			<div class = "tekstfelt">Slottsparken er Oslo sin sentrale bypark. Parken ligger rundt det kongelige slott og slottsplassen. Parken består av store plener under høye trær, gangveier, alléer og anlagte vannspeil. Slottsparken er et vernet kulturminne, og forvaltes av Slottets gartnere. En del av parken som kalles Dronningparken og er et område som ble etablert som park allerede i 1751.
 	</div>
@@ -10,7 +10,7 @@
 		<div class ="knapper" id = "knapp5"><a class = "open" href="#knapp5">her</a></div>
 		<div id = "centerbox5">
 			<h4 class = "tittel">Palace Park</h4>
-			<img class = "bilder" src="../pictures/Slottsparken.jpg">
+			<img class = "bilder" src="../pictures/Slottsparken.jpg" alt="bilde av slottsparken">
 			<h5 class = "bildetekst">The dam Kongespeilet located in Queen Park which is part of the palace park behind the Royal Palace.</h5>
 			<div class = "tekstfelt"> Palace park is Oslo's central city park. The park is located around the Royal Palace and the Palace Square. The park consists of large lawns under tall trees, paths, avenues and landscaped water surface. A portion of the park called Queen Park and is an area that was established as park already in 1751. Palace Park is a protected cultural monument, and managed by the castle's gardeners.
 
