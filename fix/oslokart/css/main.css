@@ -25,7 +25,7 @@ body{
 }
 .knapper:hover{
 	background-color: black;
-	-webkit-transition: all 0.5s;
+	-webkit-transition: all 1s;
 }
 	
 
@@ -109,6 +109,7 @@ li{
 		left: 50em;
 		top: 50em;
 }
+
 #centerbox1{
 	height:30em;
 	width:32em;
@@ -123,6 +124,7 @@ li{
 	border: 2px solid black;
 	border-radius: 2%;
 }
+
 #knapp1:target~#centerbox1{
 	opacity: 1;
 }
@@ -134,17 +136,21 @@ li{
 
 #centerbox2{
 	height:30em;
-	width:60em;
-	background-color: rgb(216, 226, 230);
+	width:32em;
+	background-color: rgba(122, 161, 210, 0.8);
 	position: absolute;
 	left: 30em;
 	top: 15em;
-	display: none;
+	display: block;
+	opacity: 0;
+	overflow: hidden;
+	-webkit-transition: all 2s;
 	border: 2px solid black;
+	border-radius: 2%;
 	}
 
 #knapp2:target~#centerbox2{
-	display:block;
+	opacity: 1;
 	
 }	
 
@@ -202,19 +208,21 @@ li{
 
 #centerbox5{
 	height:30em;
-	width:60em;
-	background-color: rgb(216, 226, 230);
+	width:32em;
+	background-color: rgba(122, 161, 210, 0.8);
 	position: absolute;
 	left: 30em;
 	top: 15em;
-	display: none;
+	display: block;
+	opacity: 0;
+	overflow: hidden;
 	-webkit-transition: all 2s;
 	border: 2px solid black;
+	border-radius: 2%;
 	}
 
 #knapp5:target~#centerbox5{
-	display:block;
-	-webkit-transition: all 1s;
+	opacity: 1;
 }	
 
 
