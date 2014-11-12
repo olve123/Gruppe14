@@ -25,16 +25,7 @@ body{
 		margin: 0;
 		
 	}
-	.knapper:hover{
-		background-color: gray;
-		width: 900px;
-		height: 450px;
-		border-radius: 5px;
-		-webkit-transition: all 1s;
-
-	}
-
-	.knapper:hover ~ .knapper{
+	#knapp1:target ~ .knapper{
 		opacity: 0;
 	}
 	h4{
@@ -43,10 +34,10 @@ body{
 		left: 100px;
 		position: relative;
 		margin:0;
-		display:none;
+		
 	}
 
-	.knapper:hover h4{
+	#knapp1:target h4{
 		opacity: 1;
 		display:block;
 	}
@@ -60,7 +51,7 @@ body{
 		display: none;	
 		background-color: white;
 	}
-	.knapper:hover .bilder{
+	.knapper:target .bilder{
 		opacity: 1;
 		-webkit-transition: all 1s;
 		display: block;
@@ -77,7 +68,7 @@ body{
 		
 
 	}
-	.knapper:hover .tekstfelt{
+	#knapp1:target .tekstfelt{
 		opacity: 1;
 		-webkit-transition: all 1s;
 		background-color: white;
@@ -90,7 +81,7 @@ body{
 		margin-right: auto;
 		width: 70%;
 	}
-	.knapper:hover h5{
+	.knapper:target h5{
 		display: block;
 		-webkit-transition: all 1s;
 	}
@@ -104,7 +95,7 @@ body{
 		position: absolute;
 		display: none;
 	}
-	.knapper:hover #bildetekst{
+	.knapper:target #bildetekst{
 		opacity: 1;
 		display:block;
 		-webkit-transition: all 1s;
@@ -119,17 +110,37 @@ body{
 		-webkit-transition: all 1s;
 
 	}
-	#sidebar:hover{
-		width: 200px;
-		-webkit-transition: all 1s;
-	}
-	.lenker{
+	
+	.close{
+		text-decoration: none;
+		color: red;
+		position: absolute;
+		right:10px;
+		bottom: 0;
+		background-color: white;
 		opacity: 0;
 	}
-	#sidebar:hover .lenker{
+	.knapper:target #close{
 		opacity: 1;
-		-webkit-transition: all 1s;
 	}
+
+	.open{
+		opacity: 0;
+	}
+
+	#centerBox{
+		background-color: gray;
+		height: 30em;
+		width: 60em;
+		position: absolute;
+		left: 30em;
+		top: 15em;
+		display: none;
+	}
+	#knapp1:target ~#centerBox{
+		display: block;
+	}
+
 
 /*----------------------------------------------------------------------------------------------*/
 

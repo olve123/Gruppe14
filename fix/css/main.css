@@ -1,0 +1,124 @@
+@charset "utf-8" ;
+
+body{
+	background-image: url("../pictures/kart.png");
+	background-repeat: no-repeat;
+	/*border: 32px solid rgba(0,0,0,0.7);*/
+	margin : 0;
+	background-color: black;
+	}
+	/*Felles klasse for alle knappene*/
+
+
+	#bg {
+		position: relative;
+	}
+
+
+	.knapper{
+		height: 15px;
+		width: 15px;
+		background-color: red;
+		border-radius: 50px;
+		position: absolute;
+	}
+	
+	.centerbox{
+		height:30em;
+		width:60em;
+		background-color: white;
+		position: absolute;
+		left: 30em;
+		top: 15em;
+		display: none;
+		-webkit-transition: all 2s;
+		border: 2px solid black;
+	}
+	.knapper:target~.centerbox{
+		display:block;
+		-webkit-transition: all 1s;
+	}
+	.bilder{
+		height: 15em;
+		top: 4em;
+		position: absolute;
+		margin-left: 15px;
+	}
+	.bildetekst{
+		position: absolute;
+		top:15em;
+		left: 3em;
+		font-size: 20px;
+		background-color: red;
+		height: 7em;
+		width: 20em;
+	}
+	.tekstfelt{
+		height: 28em;
+		width: 20em;
+		position: absolute;
+		left: 35em;
+		background-color: gray;
+	}
+
+	.open{
+		opacity: 0;
+		width: 10em;
+	}
+
+	.tittel{
+		font-size: 20px;
+		background-color: red;
+		position: absolute;
+		margin-left: 10em;
+	}
+	.close{
+		bottom: 0;
+		right: 0;
+		position: absolute;
+		background-color: red;
+	}
+	
+
+	/*Slutt på Grunnmuren*/
+/*-------------------------------------------------------------------------*/
+	/*SIDEBAR---------------------------*/
+	#sidebar{
+		height: 50em;
+		width: 2em;
+		background-color: black;
+		right: 0;
+		position: absolute;
+	}
+
+	#sidebar:hover{
+		width: 15em;
+	}
+	li{
+		color: white;
+		text-decoration: none;
+		font-size: 20px;
+		display: none;
+	}
+	#sidebar:hover li{
+		display: block;
+	}
+	.skolene{
+		display: none;
+		position: absolute;
+	}
+	#skoler:target ~ .skolene{
+		display: inline;
+	}
+
+
+/*----------------------------------------------------------------------------*/
+#knapp1{
+		left: 50em;
+		top: 50em;
+	}
+
+#knapp2{
+	left: 50em;
+	top:30em;
+}
