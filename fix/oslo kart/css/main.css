@@ -6,6 +6,7 @@ body{
 	/*border: 32px solid rgba(0,0,0,0.7);*/
 	margin : 0;
 	background-color: black;
+
 	}
 	/*Felles klasse for alle knappene*/
 
@@ -190,7 +191,7 @@ li{
 	-webkit-transition: all 1s;
 }	
 #knapp5{
-	left: 110em;
+	left: 70em;
 	top:30em;
 }
 
