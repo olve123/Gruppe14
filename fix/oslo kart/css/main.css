@@ -164,6 +164,10 @@ li{
 	display:block;
 	-webkit-transition: all 1s;
 }	
+.knapper:target~.knapper{
+	opacity: 0;
+
+}
 
 #knapp4{
 	left: 90em;
