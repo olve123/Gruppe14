@@ -1,21 +1,23 @@
 @charset "utf-8" ;
 
 body{
-	background-image: url("../pictures/kart.png");
-	background-repeat: no-repeat;
 	/*border: 32px solid rgba(0,0,0,0.7);*/
 	margin : 0;
 	background-color: black;
+	height: auto;
 	}
 	/*Felles klasse for alle knappene*/
 
 
 	#bg {
+		background-image: url("../pictures/kart.png");
+		background-repeat: no-repeat;
 		position: relative;
+		height: 100%;
 	}
 
 
-	.knapper{
+	.knapperNed, .knapperOpp{
 		height: 15px;
 		width: 15px;
 		background-color: red;
@@ -25,7 +27,23 @@ body{
 		margin: 0;
 		
 	}
+<<<<<<< Updated upstream
 	#knapp1:target ~ .knapper{
+=======
+	.knapperNed:hover{
+		background-color: gray;
+		width: 40%;
+		height: 40%;
+		border-radius: 5px;
+		-webkit-transition: all 1s;
+
+	}
+
+	.knapperNed:hover ~ .knapperNed{
+		opacity: 0;
+	}
+	.knapperOpp:hover ~ .knapperOpp{
+>>>>>>> Stashed changes
 		opacity: 0;
 	}
 	h4{
@@ -37,7 +55,11 @@ body{
 		
 	}
 
+<<<<<<< Updated upstream
 	#knapp1:target h4{
+=======
+	.knapperNed:hover h4{
+>>>>>>> Stashed changes
 		opacity: 1;
 		display:block;
 	}
@@ -51,13 +73,17 @@ body{
 		display: none;	
 		background-color: white;
 	}
+<<<<<<< Updated upstream
 	.knapper:target .bilder{
+=======
+	.knapperNed:hover .bilder{
+>>>>>>> Stashed changes
 		opacity: 1;
 		-webkit-transition: all 1s;
 		display: block;
 	}
 	img{
-		height: 200px;
+		height: 35%;
 	}
 	.tekstfelt{
 		right: 20px;
@@ -68,12 +94,17 @@ body{
 		
 
 	}
+<<<<<<< Updated upstream
 	#knapp1:target .tekstfelt{
+=======
+	.knapperNed:hover .tekstfelt{
+>>>>>>> Stashed changes
 		opacity: 1;
 		-webkit-transition: all 1s;
 		background-color: white;
-		height: 400px;
-		width: 430px;
+		height: auto;
+		width: 40%;
+		margin-right: 7%;
 	}
 	h5{
 		display:none;
@@ -81,21 +112,29 @@ body{
 		margin-right: auto;
 		width: 70%;
 	}
+<<<<<<< Updated upstream
 	.knapper:target h5{
+=======
+	.knapperNed:hover h5{
+>>>>>>> Stashed changes
 		display: block;
 		-webkit-transition: all 1s;
 	}
 
 	#bildetekst{
 		font-size: 20px;
-		bottom: 200px;
+		bottom: 50%;
 		left: 0;
 		margin-left: 30px;
 		opacity: 0;
 		position: absolute;
 		display: none;
 	}
+<<<<<<< Updated upstream
 	.knapper:target #bildetekst{
+=======
+	.knapperNed:hover #bildetekst{
+>>>>>>> Stashed changes
 		opacity: 1;
 		display:block;
 		-webkit-transition: all 1s;
