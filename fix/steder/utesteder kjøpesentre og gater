@@ -1,0 +1,183 @@
+					<div class= "knapper" id = "knapp3"><a class = "open" href="#knapp3">her></a></div>	
+			<div class = "centerbox">
+				<h4 class = "tittel">Lawo</h4>
+				<img class = "bilder" src="../pictures/lawo2.jpg"><!-- http://www.lawooslo.no/wp-content/uploads/2013/10/LAWO-Event-WEB-28.jpg -->
+				<h5 class = "bildetekst">Dette er Lawo</h5>
+				<div class = "tekstfelt">Lawo er en populær pub i Oslo som er åpent på tirsdager, fredager og lørdager. Lawo ble åpnet i april 2012 og i 2013 Lawo åpnet en bar utenfor for studenter. Du kan leie Lawo hvis du er interessert i å ha en fest eller et Julebord </div>
+				<a class = "close" href="index.html">close</a>
+			</div>
+
+								<div class= "knapper" id = "knapp4"><a class = "open" href="#knapp4">her></a></div>	
+			<div class = "centerbox">
+				<h4 class = "tittel">Jonhs bar</h4>
+				<img class = "bilder" src="../pictures/johns4.jpg"> <!-- http://www.dxhound.com/Scandinavia%202011/Vacationers/6348_john_bar_oslo.jpg -->
+				<h5 class = "bildetekst">velkommen til John`s bar</h5>
+				<div class = "tekstfelt">John`s bar er en av de mest populære barene i oslo. Sette er stedet for unge til å være, 20 års aldersgrense alle dager utenom torsdagen da det er 18. Et sted å møte venner for en drink eller kanskje fem! De er Norge mest populære afterski bar, uten skibakke i nærheten. Med John`s, det er alltid god musikk. De spiller alt fra 80-talls musikk til Rock 'n Roll.
+				</div>
+				<a class = "close" href="index.html">close</a>
+			</div>
+
+
+
+
+
+
+			ENGELSK SIDE UNDER
+
+			<div class= "knapper" id = "knapp2"><a class = "open" href="#knapp2">her></a></div>	
+			<div class = "centerbox">
+				<h4 class = "tittel">Fubar</h4>
+				<img class = "bilder" src="../pictures/fubar2.jpg"> <!-- https://scontent-a-ams.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/10425157_723000917754978_5848767319217695184_n.jpg?oh=e3a49850c24967fd2a37522d277cf50c&oe=54E7E9CF -->
+				<h5 class = "bildetekst">Fubar logo</h5>
+				<div class = "tekstfelt">“Fu bar” is a student bar for Westerdals Oslo ACT in the technology division and its the natural waterhole for any student in the area, because of its low prices on beer! Probably the cheapest beer you can buy on a bar in Oslo. Fu bar also arranges event like “oktoberfest”  and “halloween party”. There are also a couple of competitions like quizzes and beerpong. Fu bar is the place to be!</div>
+				<a class = "close" href="index.html">close</a>
+			</div>
+
+			<div class= "knapper" id = "knapp3"><a class = "open" href="#knapp3">her></a></div>	
+			<div class = "centerbox">
+				<h4 class = "tittel">Lawo</h4>
+				<img class = "bilder" src="../pictures/lawo2.jpg"><!-- http://www.lawooslo.no/wp-content/uploads/2013/10/LAWO-Event-WEB-28.jpg -->
+				<h5 class = "bildetekst">This is Lawo</h5>
+				<div class = "tekstfelt">Lawo is a popular pub in Oslo that is open on tuesdays, fridays and saturdays. Lawo was opened in april 2012 and in 2013 Lawo opened a bar outside for students. You can hire Lawo if your interested in having a party or a “Julebord” (a “julebord” is something norwegian people arrange to go out with their friends on christmas) 
+				</div>
+				<a class = "close" href="index.html">close</a>
+			</div>
+
+			<div class= "knapper" id = "knapp4"><a class = "open" href="#knapp4">her></a></div>	
+			<div class = "centerbox">
+				<h4 class = "tittel">Jonhs bar</h4>
+				<img class = "bilder" src="../pictures/johns4.jpg"> <!-- http://www.dxhound.com/Scandinavia%202011/Vacationers/6348_john_bar_oslo.jpg -->
+				<h5 class = "bildetekst">Welcome to John`s bar</h5>
+				<div class = "tekstfelt">“John`s bar” is one of the most popular bars in oslo. The place for young people to be. A place to meet your friends for a drink or maybe five! They are Norway's most popular after ski bar, with no ski slope nearby. With John`s, there is always good music. They play everything from 80s music to Rock 'n Roll.
+				</div>
+				<a class = "close" href="index.html">close</a>
+			</div>
+
+
+
+
+				KJØPESENTER
+
+			<div class= "knapper" id = "knapp30"><a class = "open" href="#knapp30">her></a></div>	
+			<div id = "centerbox30">
+				<h4 class = "tittel">Oslo City</h4>
+				<img class = "bilder" src="../pictures/oslocity.jpg" alt="bilde av Oslo city"> <!-- http://gfx.dagbladet.no/labrador/147/147013/14701378/jpg/active/978x.jpg -->
+				<h5 class = "bildetekst">Oslo kjøpesenter</h5>
+				<div class = "tekstfelt">Oslo City er en av Oslos største kjøpesentre, og befinner seg i hjertet av Oslo. De kan by på hele 93 butikker på 5 etasjer. Alt fra klær og sko, elektronikk og restauranter!
+				</div>
+				<a class = "close" href="index.html">close</a>
+			</div>
+
+			<div class= "knapper31" id = "knapp31"><a class = "open" href="#knapp31">her></a></div>	
+			<div id = "centerbox31">
+				<h4 class = "tittel">Byporten</h4>
+				<img class = "bilder" src="../pictures/byporten.jpg" alt="bilde av Byporten"> <!-- http://www.bolseth.no/Portals/bolseth/Bilder/Nye_WEB_fix/Byporten_01,%20Oslo_web710_330.jpg -->
+				<h5 class = "bildetekst">Oslo kjøpesenter</h5>
+				<div class = "tekstfelt">I Byporten har du en rekke butikker og resturanter som du ikke finner på andre kjøpesentre. De fleste butikkene som befinner seg her er de første som ble etablert i Norge! Dette er et sentralt møtested, hvor bygget deler vegger med Oslo S og Oslo City, og Scandic Hotell i øvre etasje!
+				</div>
+				<a class = "close" href="index.html">close</a>
+			</div>
+
+
+
+				KJØPESENTER ENGELSK
+
+			<div class= "knapper" id = "knapp30"><a class = "open" href="#knapp30">her></a></div>	
+			<div id = "centerbox30">
+				<h4 class = "tittel">Oslo City</h4>
+				<img class = "bilder" src="../pictures/oslocity.jpg" alt="picture of Oslo city"> <!-- http://gfx.dagbladet.no/labrador/147/147013/14701378/jpg/active/978x.jpg -->
+				<h5 class = "bildetekst">Oslo mall</h5>
+				<div class = "tekstfelt">Oslos City is Norways most central and biggest shopping center with over 90 shops and resturants on 5 floors! They have everything from clothing and shoes, electronics and resturants!
+				</div>
+				<a class = "close" href="index.html">close</a>
+			</div>
+
+			<div class= "knapper31" id = "knapp31"><a class = "open" href="#knapp31">her></a></div>	
+			<div id = "centerbox31">
+				<h4 class = "tittel">Byporten</h4>
+				<img class = "bilder" src="../pictures/byporten.jpg" alt="picture of Byporten"> <!-- http://www.bolseth.no/Portals/bolseth/Bilder/Nye_WEB_fix/Byporten_01,%20Oslo_web710_330.jpg -->
+				<h5 class = "bildetekst">Oslo mall</h5>
+				<div class = "tekstfelt">In Byporten you will find many stores and resturants you wont fint anywhere else, and most of them were established for the first time here in Norway! Its a central meet-up place, next to the central station, Oslo city and Scandic Hote on the next floor!
+				</div>
+				<a class = "close" href="index.html">close</a>
+			</div>
+
+
+
+				GATER NORSK 27-29
+
+			<div class= "knapper" id = "knapp27"><a class = "open" href="#knapp27">her></a></div>	
+			<div id = "centerbox27">
+				<h4 class = "tittel">Karl Johan</h4>
+				<img class = "bilder" src="../pictures/karl.jpg" alt="bilde av Karl Johan"> <!-- http://kfntravelguide.com/content/images/thumbs/0022638.jpeg -->
+				<h5 class = "bildetekst">Oslo`s gater</h5>
+				<div class = "tekstfelt">Karl Johan regnes som Oslo hovedgate som strekker seg fra Jernbanetorget til Slottet. Det er en gågate med en rekke med trendy butikker og eksotiske resturanter. Langs gaten går man forbi Domkirken, Stortinget, Nationalteateret, Universitetsbygningene til man kommer helt frem til Slottet.
+				</div>
+				<a class = "close" href="index.html">close</a>
+			</div>
+
+			<div class= "knapper" id = "knapp28"><a class = "open" href="#knapp28">her></a></div>	
+			<div id = "centerbox28">
+				<h4 class = "tittel">Bogstadveien</h4>
+				<img class = "bilder" src="../pictures/bogstad.jpg" alt="bilde av Bogstadveien"> <!-- http://upload.wikimedia.org/wikipedia/commons/4/4e/Bogstadveien_Oslo.jpg -->
+				<h5 class = "bildetekst">Oslo`s gater</h5>
+				<div class = "tekstfelt">Bogstaveien er en travel handelsgate som befinner seg på Majorstuen, ikke så langt unna t-banestajonen. I likehet med Karl Johan, finner du mange butikker og cafeer i området, og er et flott sted å få med seg om man ønsker å oppdage fin arkitektur, store parker og flotte omgivelser.
+				</div>
+				<a class = "close" href="index.html">close</a>
+			</div>
+
+			<div class= "knapper" id = "knapp29"><a class = "open" href="#knapp29">her></a></div>	
+			<div id = "centerbox29">
+				<h4 class = "tittel">Thorvald Meyersgate</h4>
+				<img class = "bilder" src="../pictures/thor.jpg" alt="bilde av Thorvald Meyersgate"> <!-- http://www.bnnæring.no/images/hi_res/Thorvald_Meyers_gate_45.jpg -->
+				<h5 class = "bildetekst">Oslo`s gater</h5>
+				<div class = "tekstfelt">Thorvald Meyersgata ern en 1.4 km lang og stekker seg lags Grunerløkka, opp til Sagene. Grunerløkka som før ble sett som slummen, er i dag de mest trendye og urbane bydelene i Oslo. Langs denne gata finner du utallige barer, resturanter, konsertlokaler og gallerier, og er et kjent sted å være på kveldene for å ta en pils.
+				</div>
+				<a class = "close" href="index.html">close</a>
+			</div>
+
+
+
+
+
+
+
+				GATER ENGELSK
+
+			<div class= "knapper" id = "knapp27"><a class = "open" href="#knapp27">her></a></div>	
+			<div id = "centerbox27">
+				<h4 class = "tittel">Karl Johan</h4>
+				<img class = "bilder" src="../pictures/karl.jpg" alt="picture of Karl Johan"> <!-- http://kfntravelguide.com/content/images/thumbs/0022638.jpeg -->
+				<h5 class = "bildetekst">Oslo`s streets</h5>
+				<div class = "tekstfelt">Karl Joan in Oslos main street that goes from the central station, and reaches the Royal Castle in Norway. The longs treet has lots of Trendy shops, and ecsotic resturants. When you walk through, you will see the Cathredral, The norwegian parlament, the national theatre , the universitybuildings, thil you arive the Royal Casotle!
+				</div>
+				<a class = "close" href="index.html">close</a>
+			</div>
+
+			<div class= "knapper" id = "knapp28"><a class = "open" href="#knapp28">her></a></div>	
+			<div id = "centerbox28">
+				<h4 class = "tittel">Bogstadveien</h4>
+				<img class = "bilder" src="../pictures/bogstad.jpg" alt="picture of Bogstadveien"> <!-- http://upload.wikimedia.org/wikipedia/commons/4/4e/Bogstadveien_Oslo.jpg -->
+				<h5 class = "bildetekst">Oslo`s streets</h5>
+				<div class = "tekstfelt">Bogstadveien is a busy steet that you’ll find in Majostuen, not so far from their own subway station.Same as Karl Johan, you will find many stored and cafes, and its a great place to be if you want to discover great arcitecture, big parks and beautiful suroindings.
+				</div>
+				<a class = "close" href="index.html">close</a>
+			</div>
+
+			<div class= "knapper" id = "knapp29"><a class = "open" href="#knapp29">her></a></div>	
+			<div id = "centerbox29">
+				<h4 class = "tittel">Thorvald Meyersgate</h4>
+				<img class = "bilder" src="../pictures/thor.jpg" alt="picture of Thorvald Meyersgate"> <!-- http://www.bnnæring.no/images/hi_res/Thorvald_Meyers_gate_45.jpg -->
+				<h5 class = "bildetekst">Thorvald Meyersgate</h5>
+				<div class = "tekstfelt">Thorvald Meyersstreet is a 1.4km long street that goeas though Grunerløkka, and all the way up to Sagene. Back in the days Grunerløkka was seen as the ghetto of Oslo, but today is now the most trendy, urban and a popular place to live! All the way you will find bars, resturants, concertlocals and galleries, and is a great place to take a cold beer at night!
+				</div>
+				<a class = "close" href="index.html">close</a>
+			</div>
+
+
+
+
+
+
+					
+
