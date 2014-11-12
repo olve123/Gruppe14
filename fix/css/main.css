@@ -103,14 +103,6 @@ body{
 	#sidebar:hover li{
 		display: block;
 	}
-	.skolene{
-		display: none;
-		position: absolute;
-	}
-	#skoler:target ~ .skolene{
-		display: inline;
-	}
-
 
 /*----------------------------------------------------------------------------*/
 #knapp1{
