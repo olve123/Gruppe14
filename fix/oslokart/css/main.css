@@ -60,9 +60,9 @@ body{
 }
 .bildetekst{
 	position: absolute;
-	top:37em;
+	top:29em;
 	left: 3em;
-	font-size: 8px;
+	font-size: 10px;
 	height: 7em;
 	width: 70em;
 }
@@ -117,16 +117,13 @@ li{
 	position: absolute;
 	left: 30em;
 	top: 15em;
-	display: block;
-	opacity: 0;
-	overflow: hidden;
-	-webkit-transition: all 2s;
+	display: none;
 	border: 2px solid black;
 	border-radius: 2%;
 }
 
 #knapp1:target~#centerbox1{
-	opacity: 1;
+	display: block;
 }
 
 #knapp2{
@@ -141,16 +138,13 @@ li{
 	position: absolute;
 	left: 30em;
 	top: 15em;
-	display: block;
-	opacity: 0;
-	overflow: hidden;
-	-webkit-transition: all 2s;
+	display: none;
 	border: 2px solid black;
 	border-radius: 2%;
 	}
 
 #knapp2:target~#centerbox2{
-	opacity: 1;
+	display: block;
 	
 }	
 
@@ -161,20 +155,20 @@ li{
 
 #centerbox3{
 	height:30em;
-	width:60em;
-	background-color: rgb(216, 226, 230);
+	width:32em;
+	background-color: rgba(122, 161, 210, 0.8);
 	position: absolute;
 	left: 30em;
 	top: 15em;
 	display: none;
-	-webkit-transition: all 2s;
 	border: 2px solid black;
+	border-radius: 2%;
 	}
 
 #knapp3:target~#centerbox3{
 	display:block;
-	-webkit-transition: all 1s;
 }	
+
 .knapper:target~.knapper{
 	opacity: 0;
 
@@ -187,19 +181,18 @@ li{
 
 #centerbox4{
 	height:30em;
-	width:60em;
-	background-color: rgb(216, 226, 230);
+	width:32em;
+	background-color: rgba(122, 161, 210, 0.8);
 	position: absolute;
 	left: 30em;
 	top: 15em;
 	display: none;
-	-webkit-transition: all 2s;
 	border: 2px solid black;
+	border-radius: 2%;
 	}
 
 #knapp4:target~#centerbox4{
 	display:block;
-	-webkit-transition: all 1s;
 }	
 #knapp5{
 	left: 70em;
@@ -213,16 +206,13 @@ li{
 	position: absolute;
 	left: 30em;
 	top: 15em;
-	display: block;
-	opacity: 0;
-	overflow: hidden;
-	-webkit-transition: all 2s;
+	display: none;
 	border: 2px solid black;
 	border-radius: 2%;
 	}
 
 #knapp5:target~#centerbox5{
-	opacity: 1;
+	display: block;
 }	
 
 
