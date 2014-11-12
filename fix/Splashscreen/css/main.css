@@ -2,7 +2,7 @@
 
 body{
 	background: url("../bilder/oslo1.jpg")no-repeat center center fixed;
-	background-size: 100%;
+	background-size: 100em;
 	position: relative;
 	
 	}
@@ -33,8 +33,8 @@ body{
 		position: absolute;
 		height: 200px;
 		width: 200px; 
-		margin-top: 300px;
-		right: 450px;
+		margin-top: 19em;
+		right: 68em;
 		border-radius: 50%;
 		border: 3px solid white;
 		-webkit-transition: all 1s ease;
@@ -53,8 +53,8 @@ body{
 		position: absolute;
 		height: 200px;
 		width: 200px;
-		margin-top: 300px;
-		right: 750px;
+		margin-top: 19em;
+		right: 50em;
 		border-radius: 50%;
 		border: 3px solid white;
 		-webkit-transition: all 1s ease;

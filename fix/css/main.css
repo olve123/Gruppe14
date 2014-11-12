@@ -10,108 +10,134 @@ body{
 	/*Felles klasse for alle knappene*/
 
 
-	#bg {
-		position: relative;
-	}
+#bg {
+	position: relative;
+}
 
 
-	.knapper{
-		height: 15px;
-		width: 15px;
-		background-color: red;
-		border-radius: 50px;
-		position: absolute;
-	}
-	
-	.centerbox{
-		height:30em;
-		width:60em;
-		background-color: white;
-		position: absolute;
-		left: 30em;
-		top: 15em;
-		display: none;
-		-webkit-transition: all 2s;
-		border: 2px solid black;
-	}
-	.knapper:target~.centerbox{
-		display:block;
-		-webkit-transition: all 1s;
-	}
-	.bilder{
-		height: 15em;
-		width: 30em;
-		top: 4em;
-		position: absolute;
-		margin-left: 15px;
-	}
-	.bildetekst{
-		position: absolute;
-		top:15em;
-		left: 3em;
-		font-size: 20px;
-		background-color: red;
-		height: 7em;
-		width: 20em;
-	}
-	.tekstfelt{
-		height: 28em;
-		width: 20em;
-		position: absolute;
-		left: 35em;
-		background-color: gray;
-	}
-
-	.open{
-		opacity: 0;
-		width: 10em;
-	}
-
-	.tittel{
-		font-size: 20px;
-		background-color: red;
-		position: absolute;
-		margin-left: 10em;
-	}
-	.close{
-		bottom: 0;
-		right: 0;
-		position: absolute;
-		background-color: red;
-	}
+.knapper{
+	height: 15px;
+	width: 15px;
+	background-color: red;
+	border-radius: 50px;
+	position: absolute;
+}
+.knapper:hover{
+	background-color: black;
+	-webkit-transition: all 0.5s;
+}
 	
 
+	
+.bilder{
+	height: 15em;
+	width: 30em;
+	top: 4em;
+	position: absolute;
+	margin-left: 15px;
+}
+.bildetekst{
+	position: absolute;
+	top:15em;
+	left: 3em;
+	font-size: 20px;
+	background-color: red;
+	height: 7em;
+	width: 20em;
+}
+.tekstfelt{
+	height: 28em;
+	width: 20em;
+	position: absolute;
+	left: 35em;
+	background-color: rgb(209, 235, 242);
+	border: 2px solid rgb(166, 178, 206);
+	top: 1em;
+}
+.tekst{
+	font-size: 23px;
+	font-family: helvetica;
+	padding: 0;
+	margin:0;
+}
+.open{
+	opacity: 0;
+	width: 10em;
+}
+.tittel{
+	font-size: 20px;
+	position: absolute;
+	margin-left: 10em;
+}
+.close{
+	bottom: 0;
+	right: 0;
+	position: absolute;
+	background-color: red;
+}
 	/*Slutt på Grunnmuren*/
 /*-------------------------------------------------------------------------*/
 	/*SIDEBAR---------------------------*/
-	#sidebar{
-		height: 50em;
-		width: 2em;
-		background-color: black;
-		right: 0;
-		position: absolute;
-	}
+#sidebar{
+	height: 50em;
+	width: 2em;
+	background-color: black;
+	right: 0;
+	position: absolute;
+}
 
-	#sidebar:hover{
-		width: 15em;
-	}
-	li{
-		color: white;
-		text-decoration: none;
-		font-size: 20px;
-		display: none;
-	}
-	#sidebar:hover li{
-		display: block;
-	}
+#sidebar:hover{
+	width: 15em;
+}
+li{
+	color: white;
+	text-decoration: none;
+	font-size: 20px;
+	display: none;
+}
+#sidebar:hover li{
+	display: block;
+}
 
 /*----------------------------------------------------------------------------*/
 #knapp1{
 		left: 50em;
 		top: 50em;
-	}
+}
+#centerbox1{
+	height:30em;
+	width:60em;
+	background-color: rgb(216, 226, 230);
+	position: absolute;
+	left: 30em;
+	top: 15em;
+	display: none;
+	-webkit-transition: all 2s;
+	border: 2px solid black;
+}
+#knapp1:target~#centerbox1{
+	display:block;
+}
 
 #knapp2{
 	left: 50em;
 	top:30em;
 }
+
+#centerbox2{
+	height:30em;
+	width:60em;
+	background-color: rgb(216, 226, 230);
+	position: absolute;
+	left: 30em;
+	top: 15em;
+	display: none;
+	-webkit-transition: all 2s;
+	border: 2px solid black;
+	}
+
+#knapp2:target~#centerbox2{
+	display:block;
+	-webkit-transition: all 1s;
+}	
+
