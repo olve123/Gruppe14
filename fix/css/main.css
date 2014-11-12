@@ -40,6 +40,7 @@ body{
 	}
 	.bilder{
 		height: 15em;
+		width: 30em;
 		top: 4em;
 		position: absolute;
 		margin-left: 15px;
