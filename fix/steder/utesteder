@@ -7,7 +7,7 @@
 				<a class = "close" href="index.html">close</a>
 			</div>
 
-								<div class= "knapper" id = "knapp4"><a class = "open" href="#knapp44">her></a></div>	
+								<div class= "knapper" id = "knapp4"><a class = "open" href="#knapp4">her></a></div>	
 			<div class = "centerbox">
 				<h4 class = "tittel">Lawo</h4>
 				<img class = "bilder" src="../pictures/johns4.jpg">
