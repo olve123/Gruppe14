@@ -49,6 +49,7 @@ body{
 	color: rgb(220, 220, 220);
 }
 
+
 .bilder{
 	height: 15em;
 	width: 30em;
@@ -70,7 +71,7 @@ body{
 	width: 30em;
 	position: absolute;
 	left: 1em;
-	background-color: rgb(49, 103, 173);
+	background-color: rgba(49, 103, 173, 0.6);
 	border: 2px solid rgb(0, 0, 0);
 	top: 20em;
 }
