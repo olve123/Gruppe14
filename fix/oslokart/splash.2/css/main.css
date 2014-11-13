@@ -15,9 +15,8 @@ body{
 	}
 #logo{
 	position: absolute;
-	right: 420px;
+	right: 450px;
 	margin-top: 150px;
-	overflow: auto;
 }
 
 #top, #bottom, #left, #right{
