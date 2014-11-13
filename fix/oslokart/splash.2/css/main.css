@@ -1,8 +1,6 @@
-@charset "utf-8" ;
-
-body{
-	background: url("../bilder/oslo1.jpg") center center no-repeat;
-	position: relative;	
+body {
+	background: url("../bilder/oslo1.jpg") no-repeat;
+	position: relative;
 	-webkit-animation: fadeIn 3s;
 }
 
@@ -11,76 +9,86 @@ body{
 	0% {opacity: 0}
 	100%{opacity: 1}
 	
-	}
-#logo{
-	position: absolute;
-	right: 450px;
-	margin-top: 150px;
 }
 
-#top, #bottom, #left, #right{
+#wrap {
+	margin-left: auto;
+	margin-right: auto;
+	width: 500px;
+	top: 200px;
+	position: relative;
+}
+
+#logo {
+	margin-bottom: 50px;
+}
+
+#flagg {
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	left: 45px;
+}
+
+#norge {
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	border: 3px solid white;
+	position: absolute;
+}
+
+#uk {
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	border: 3px solid white;
+	position: absolute;
+	left: 220px;
+}
+
+#top, #left, #right, #bottom {
 	background-color: rgb(174, 198, 207);
 	position: fixed;
 	opacity: 0.5;
-
 }
 
-#left, #right{
+#left, #right {
 	top: 0;
 	bottom: 0;
 	width: 15px;
 
 }
-#left {left: 0;}
-#right {right: 0;}
 
-#top, #bottom{
+#left {
+	left: 0;
+}
+
+#right {
+	right: 0;
+}
+
+#top, #bottom {
 	left: 0; right: 0;
 	height: 15px;
 }
-#top {top: 0;}
-#bottom {bottom: 0;}
 
-#norge{
-	position: absolute;
-	height: 200px;
-	width: 200px; 
-	margin-top: 300px;
-	right: 450px;
-	border-radius: 50%;
-	border: 3px solid white;
-	overflow: auto;
-	-webkit-transition: all 1s ease;
-	-webkit-transition-duration: 0.2s;
-	-webkit-transition-timing-function: linear;
-	-webkit-transition-delay: 0s;
+#top {
+	top: 0;
 }
 
-#norge:hover{
-	transition: background 0.2s, color 0.2s;   
-	height: 202px;
-	width: 202px;
-}	
-
-#uk{
-	position: absolute;
-	height: 200px;
-	width: 200px;
-	margin-top: 300px;
-	right: 750px;
-	border-radius: 50%;
-	border: 3px solid white;
-	overflow: auto;
-	-webkit-transition: all 1s ease;
-	-webkit-transition-duration: 0.2s;
-	-webkit-transition-timing-function: linear;
-	-webkit-transition-delay: 0s;
-	
+#bottom {
+	bottom: 0;
 }
 
-#uk:hover{
-	transition: background 0.2s, color 0.2s;
-	height: 202px;
-	width: 202px;
+#norge:hover {
+	transition: all 0.2s;
+	height: 205px;
+	width: 205px;
 }
 
+#uk:hover {
+	transition: all 0.2s;
+	height: 205px;
+	width: 205px;
+}
