@@ -3,10 +3,16 @@
 body{
 	background: url("../bilder/oslo1.jpg") center center no-repeat;
 	background-size: 100%;
-	position: relative;
-	
-
+	position: relative;	
+	-webkit-animation: fadeIn 3s;
 }
+
+@-webkit-keyframes fadeIn {
+
+	0% {opacity: 0}
+	100%{opacity: 1}
+	
+	}
 #logo{
 	position: absolute;
 	right: 420px;

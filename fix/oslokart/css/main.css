@@ -6,6 +6,13 @@ body{
 	/*border: 32px solid rgba(0,0,0,0.7);*/
 	margin : 0;
 	background-color: black;
+		-webkit-animation: fadeIn 3s;
+}
+
+@-webkit-keyframes fadeIn {
+
+	0% {opacity: 0}
+	100%{opacity: 1}
 
 }
 /*Felles klasse for alle knappene*/
