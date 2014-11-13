@@ -1,0 +1,4 @@
+For å komme til start siden go inn i mappen oslokart->splash.2->html og gå
+inn i index html for å starte nettsiden:)
+
+hilsen Gruppe 14
