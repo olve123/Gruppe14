@@ -240,5 +240,570 @@ li{
 	display: block;
 }	
 
+#knapp6{
+	left: 40em;
+	top:30em;
+}
+
+#centerbox6{
+	height:30em;
+	width:32em;
+	background-color: rgba(122, 161, 210, 0.8);
+	position: absolute;
+	left: 30em;
+	top: 15em;
+	display: none;
+	border: 2px solid black;
+	border-radius: 2%;
+	}
+
+#knapp6:target~#centerbox6{
+	display: block;
+}	
+
+#knapp7{
+	left: 40em;
+	top:30em;
+}
+
+#centerbox7{
+	height:30em;
+	width:32em;
+	background-color: rgba(122, 161, 210, 0.8);
+	position: absolute;
+	left: 30em;
+	top: 15em;
+	display: none;
+	border: 2px solid black;
+	border-radius: 2%;
+	}
+
+#knapp7:target~#centerbox7{
+	display: block;
+}	
+#knapp8{
+	left: 40em;
+	top:30em;
+}
+
+#centerbox8{
+	height:30em;
+	width:32em;
+	background-color: rgba(122, 161, 210, 0.8);
+	position: absolute;
+	left: 30em;
+	top: 15em;
+	display: none;
+	border: 2px solid black;
+	border-radius: 2%;
+	}
+
+#knapp8:target~#centerbox8{
+	display: block;
+}	
+
+#knapp9{
+	left: 40em;
+	top:30em;
+}
+
+#centerbox9{
+	height:30em;
+	width:32em;
+	background-color: rgba(122, 161, 210, 0.8);
+	position: absolute;
+	left: 30em;
+	top: 15em;
+	display: none;
+	border: 2px solid black;
+	border-radius: 2%;
+	}
+
+#knapp9:target~#centerbox9{
+	display: block;
+}	
+
+#knapp10{
+	left: 40em;
+	top:30em;
+}
+
+#centerbox10{
+	height:30em;
+	width:32em;
+	background-color: rgba(122, 161, 210, 0.8);
+	position: absolute;
+	left: 30em;
+	top: 15em;
+	display: none;
+	border: 2px solid black;
+	border-radius: 2%;
+	}
+
+#knapp10:target~#centerbox10{
+	display: block;
+}	
 
 
+
+
+
+
+
+#knapp11{
+	left: 40em;
+	top:30em;
+}
+
+#centerbox11{
+	height:30em;
+	width:32em;
+	background-color: rgba(122, 161, 210, 0.8);
+	position: absolute;
+	left: 30em;
+	top: 15em;
+	display: none;
+	border: 2px solid black;
+	border-radius: 2%;
+	}
+
+#knapp11:target~#centerbox11{
+	display: block;
+}	
+
+#knapp12{
+	left: 40em;
+	top:30em;
+}
+
+#centerbox12{
+	height:30em;
+	width:32em;
+	background-color: rgba(122, 161, 210, 0.8);
+	position: absolute;
+	left: 30em;
+	top: 15em;
+	display: none;
+	border: 2px solid black;
+	border-radius: 2%;
+	}
+
+#knapp12:target~#centerbox12{
+	display: block;
+}	
+
+#knapp13{
+	left: 40em;
+	top:30em;
+}
+
+#centerbox13{
+	height:30em;
+	width:32em;
+	background-color: rgba(122, 161, 210, 0.8);
+	position: absolute;
+	left: 30em;
+	top: 15em;
+	display: none;
+	border: 2px solid black;
+	border-radius: 2%;
+	}
+
+#knapp13:target~#centerbox13{
+	display: block;
+}	
+
+#knapp14{
+	left: 40em;
+	top:30em;
+}
+
+#centerbox14{
+	height:30em;
+	width:32em;
+	background-color: rgba(122, 161, 210, 0.8);
+	position: absolute;
+	left: 30em;
+	top: 15em;
+	display: none;
+	border: 2px solid black;
+	border-radius: 2%;
+	}
+
+#knapp14:target~#centerbox14{
+	display: block;
+}
+
+#knapp15{
+	left: 40em;
+	top:30em;
+}
+
+#centerbox15{
+	height:30em;
+	width:32em;
+	background-color: rgba(122, 161, 210, 0.8);
+	position: absolute;
+	left: 30em;
+	top: 15em;
+	display: none;
+	border: 2px solid black;
+	border-radius: 2%;
+	}
+
+#knapp15:target~#centerbox15{
+	display: block;
+}		
+
+#knapp16{
+	left: 40em;
+	top:30em;
+}
+
+#centerbox16{
+	height:30em;
+	width:32em;
+	background-color: rgba(122, 161, 210, 0.8);
+	position: absolute;
+	left: 30em;
+	top: 15em;
+	display: none;
+	border: 2px solid black;
+	border-radius: 2%;
+	}
+
+#knapp16:target~#centerbox16{
+	display: block;
+}	
+
+#knapp17{
+	left: 40em;
+	top:30em;
+}
+
+#centerbox17{
+	height:30em;
+	width:32em;
+	background-color: rgba(122, 161, 210, 0.8);
+	position: absolute;
+	left: 30em;
+	top: 15em;
+	display: none;
+	border: 2px solid black;
+	border-radius: 2%;
+	}
+
+#knapp17:target~#centerbox17{
+	display: block;
+}	
+
+#knapp18{
+	left: 40em;
+	top:30em;
+}
+
+#centerbox18{
+	height:30em;
+	width:32em;
+	background-color: rgba(122, 161, 210, 0.8);
+	position: absolute;
+	left: 30em;
+	top: 15em;
+	display: none;
+	border: 2px solid black;
+	border-radius: 2%;
+	}
+
+#knapp18:target~#centerbox18{
+	display: block;
+}	
+#knapp19{
+	left: 40em;
+	top:30em;
+}
+
+#centerbox19{
+	height:30em;
+	width:32em;
+	background-color: rgba(122, 161, 210, 0.8);
+	position: absolute;
+	left: 30em;
+	top: 15em;
+	display: none;
+	border: 2px solid black;
+	border-radius: 2%;
+	}
+
+#knapp19:target~#centerbox19{
+	display: block;
+}	
+
+#knapp20{
+	left: 40em;
+	top:30em;
+}
+
+#centerbox20{
+	height:30em;
+	width:32em;
+	background-color: rgba(122, 161, 210, 0.8);
+	position: absolute;
+	left: 30em;
+	top: 15em;
+	display: none;
+	border: 2px solid black;
+	border-radius: 2%;
+	}
+
+#knapp20:target~#centerbox20{
+	display: block;
+}	
+
+#knapp21{
+	left: 40em;
+	top:30em;
+}
+
+#centerbox21{
+	height:30em;
+	width:32em;
+	background-color: rgba(122, 161, 210, 0.8);
+	position: absolute;
+	left: 30em;
+	top: 15em;
+	display: none;
+	border: 2px solid black;
+	border-radius: 2%;
+	}
+
+#knapp21:target~#centerbox21{
+	display: block;
+}	
+#knapp22{
+	left: 40em;
+	top:30em;
+}
+
+#centerbox22{
+	height:30em;
+	width:32em;
+	background-color: rgba(122, 161, 210, 0.8);
+	position: absolute;
+	left: 30em;
+	top: 15em;
+	display: none;
+	border: 2px solid black;
+	border-radius: 2%;
+	}
+
+#knapp22:target~#centerbox22{
+	display: block;
+}	
+
+#knapp23{
+	left: 40em;
+	top:30em;
+}
+
+#centerbox23{
+	height:30em;
+	width:32em;
+	background-color: rgba(122, 161, 210, 0.8);
+	position: absolute;
+	left: 30em;
+	top: 15em;
+	display: none;
+	border: 2px solid black;
+	border-radius: 2%;
+	}
+
+#knapp23:target~#centerbox23{
+	display: block;
+}
+#knapp24{
+	left: 40em;
+	top:30em;
+}
+
+#centerbox24{
+	height:30em;
+	width:32em;
+	background-color: rgba(122, 161, 210, 0.8);
+	position: absolute;
+	left: 30em;
+	top: 15em;
+	display: none;
+	border: 2px solid black;
+	border-radius: 2%;
+	}
+
+#knapp24:target~#centerbox24{
+	display: block;
+}		
+
+#knapp25{
+	left: 40em;
+	top:30em;
+}
+
+#centerbox25{
+	height:30em;
+	width:32em;
+	background-color: rgba(122, 161, 210, 0.8);
+	position: absolute;
+	left: 30em;
+	top: 15em;
+	display: none;
+	border: 2px solid black;
+	border-radius: 2%;
+	}
+
+#knapp25:target~#centerbox25{
+	display: block;
+}	
+
+#knapp26{
+	left: 40em;
+	top:30em;
+}
+
+#centerbox26{
+	height:30em;
+	width:32em;
+	background-color: rgba(122, 161, 210, 0.8);
+	position: absolute;
+	left: 30em;
+	top: 15em;
+	display: none;
+	border: 2px solid black;
+	border-radius: 2%;
+	}
+
+#knapp26:target~#centerbox26{
+	display: block;
+}	
+
+#knapp27{
+	left: 40em;
+	top:30em;
+}
+
+#centerbox27{
+	height:30em;
+	width:32em;
+	background-color: rgba(122, 161, 210, 0.8);
+	position: absolute;
+	left: 30em;
+	top: 15em;
+	display: none;
+	border: 2px solid black;
+	border-radius: 2%;
+	}
+
+#knapp27:target~#centerbox27{
+	display: block;
+}	
+
+#knapp28{
+	left: 40em;
+	top:30em;
+}
+
+#centerbox28{
+	height:30em;
+	width:32em;
+	background-color: rgba(122, 161, 210, 0.8);
+	position: absolute;
+	left: 30em;
+	top: 15em;
+	display: none;
+	border: 2px solid black;
+	border-radius: 2%;
+	}
+
+#knapp28:target~#centerbox28{
+	display: block;
+}	
+
+#knapp29{
+	left: 40em;
+	top:30em;
+}
+
+#centerbox29{
+	height:30em;
+	width:32em;
+	background-color: rgba(122, 161, 210, 0.8);
+	position: absolute;
+	left: 30em;
+	top: 15em;
+	display: none;
+	border: 2px solid black;
+	border-radius: 2%;
+	}
+
+#knapp29:target~#centerbox29{
+	display: block;
+}	
+#knapp30{
+	left: 40em;
+	top:30em;
+}
+
+#centerbox30{
+	height:30em;
+	width:32em;
+	background-color: rgba(122, 161, 210, 0.8);
+	position: absolute;
+	left: 30em;
+	top: 15em;
+	display: none;
+	border: 2px solid black;
+	border-radius: 2%;
+	}
+
+#knapp30:target~#centerbox30{
+	display: block;
+}	
+
+#knapp31{
+	left: 40em;
+	top:30em;
+}
+
+#centerbox31{
+	height:30em;
+	width:32em;
+	background-color: rgba(122, 161, 210, 0.8);
+	position: absolute;
+	left: 30em;
+	top: 15em;
+	display: none;
+	border: 2px solid black;
+	border-radius: 2%;
+	}
+
+#knapp31:target~#centerbox31{
+	display: block;
+}	
+
+#knapp32{
+	left: 40em;
+	top:30em;
+}
+
+#centerbox32{
+	height:30em;
+	width:32em;
+	background-color: rgba(122, 161, 210, 0.8);
+	position: absolute;
+	left: 30em;
+	top: 15em;
+	display: none;
+	border: 2px solid black;
+	border-radius: 2%;
+	}
+
+#knapp32:target~#centerbox32{
+	display: block;
+}	
