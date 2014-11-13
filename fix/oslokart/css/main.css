@@ -54,8 +54,9 @@ li a:hover {
 	color: rgb(0, 0, 0);
 }
 
-li a:active {
+.active {
 	color: rgb(0, 0, 0);
+	text-decoration: underline;
 }
 
 #sidebar:hover li {
@@ -66,6 +67,7 @@ li a:active {
 
 #velgSprak {
 	text-decoration: underline;
+	color: rgb(255, 255, 138);
 }
 
 #kategorier {
@@ -137,11 +139,11 @@ li a:active {
 }
 .bildetekst{
 	position: absolute;
-	top:24em;
-	left: 3em;
-	font-size: 14px;
-	height: 20em;
-	width: 70em;
+	top:22em;
+	left: 1em;
+	font-size: 13px;
+	height: 10em;
+	width: auto;
 }
 .tekstfelt{
 	height: auto;
@@ -150,7 +152,7 @@ li a:active {
 	left: 1em;
 	background-color: rgba(49, 103, 173, 0.6);
 	border: 2px solid rgb(0, 0, 0);
-	top: 21em;
+	top: 21.2em;
 }
 .tittel{
 	font-size: 20px;
@@ -298,7 +300,7 @@ li{
 	}
 
 	#centerbox6{
-		height:30em;
+		height:31em;
 		width:32em;
 		background-color: rgba(122, 161, 210, 0.8);
 		position: absolute;
@@ -319,7 +321,7 @@ li{
 	}
 
 	#centerbox7{
-		height:30em;
+		height:31em;
 		width:32em;
 		background-color: rgba(122, 161, 210, 0.8);
 		position: absolute;
@@ -339,7 +341,7 @@ li{
 	}
 
 	#centerbox8{
-		height:30em;
+		height:31em;
 		width:32em;
 		background-color: rgba(122, 161, 210, 0.8);
 		position: absolute;
@@ -360,7 +362,7 @@ li{
 	}
 
 	#centerbox9{
-		height:30em;
+		height:31em;
 		width:32em;
 		background-color: rgba(122, 161, 210, 0.8);
 		position: absolute;
@@ -381,7 +383,7 @@ li{
 	}
 
 	#centerbox10{
-		height:30em;
+		height:31em;
 		width:32em;
 		background-color: rgba(122, 161, 210, 0.8);
 		position: absolute;
@@ -401,7 +403,7 @@ li{
 	}
 
 	#centerbox11{
-		height:30em;
+		height:31em;
 		width:32em;
 		background-color: rgba(122, 161, 210, 0.8);
 		position: absolute;
@@ -464,7 +466,7 @@ li{
 	}
 
 	#centerbox14{
-		height:30em;
+		height:32em;
 		width:32em;
 		background-color: rgba(122, 161, 210, 0.8);
 		position: absolute;
@@ -485,7 +487,7 @@ li{
 	}
 
 	#centerbox15{
-		height:30em;
+		height:32em;
 		width:32em;
 		background-color: rgba(122, 161, 210, 0.8);
 		position: absolute;
@@ -506,7 +508,7 @@ li{
 	}
 
 	#centerbox16{
-		height:30em;
+		height:31em;
 		width:32em;
 		background-color: rgba(122, 161, 210, 0.8);
 		position: absolute;
@@ -630,7 +632,7 @@ li{
 	}
 
 	#centerbox22{
-		height:30em;
+		height:31em;
 		width:32em;
 		background-color: rgba(122, 161, 210, 0.8);
 		position: absolute;
@@ -671,7 +673,7 @@ li{
 	}
 
 	#centerbox24{
-		height:30em;
+		height:31em;
 		width:32em;
 		background-color: rgba(122, 161, 210, 0.8);
 		position: absolute;
