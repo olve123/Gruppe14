@@ -746,8 +746,8 @@ li{
 		display: block;
 	}	
 	#knapp30{
-		left: 56.9em;
-		top:39.4em;
+		left: 58.7em;
+		top:40em;
 	}
 
 	#centerbox30{
@@ -767,8 +767,8 @@ li{
 	}	
 
 	#knapp31{
-		left: 40em;
-		top:30em;
+		left: 58.7em;
+		top:41em;
 	}
 
 	#centerbox31{
@@ -788,8 +788,8 @@ li{
 	}	
 
 	#knapp32{
-		left: 40em;
-		top:30em;
+		left: 51em;
+		top:37em;
 	}
 
 	#centerbox32{
@@ -805,5 +805,26 @@ li{
 	}
 
 	#knapp32:target~#centerbox32{
+		display: block;
+	}
+
+	#knapp33{
+		left: 58.5em;
+		top:38.8em;
+	}
+
+	#centerbox33{
+		height:30em;
+		width:32em;
+		background-color: rgba(122, 161, 210, 0.8);
+		position: absolute;
+		left: 30em;
+		top: 15em;
+		display: none;
+		border: 2px solid black;
+		border-radius: 2%;
+	}
+
+	#knapp33:target~#centerbox33{
 		display: block;
 	}	
