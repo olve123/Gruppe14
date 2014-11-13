@@ -1,0 +1,65 @@
+
+	<div id = "Kinoer">
+		<div class ="knapper" id = "knapp19"><a class = "open" href="#knapp19">her</a></div>
+		<div id = "centerbox19">
+			<h4 class = "tittel">Colosseum Kino</h4>
+			<img class = "bilder" src="../pictures/ColosseumKino.jpg" alt="bilde av Colosseum">
+			<h5 class = "bildetekst">Colosseum er tegnet av arkitektene Jacob Hanssen og Gerhard Iversen og sto ferdig i 1928.</h5>
+			<div class = "tekstfelt"><h5 class = "tekst">Adresse: Fridtjof Nansens vei 6, 0369 Oslo. Colosseum kino er Oslo Kinos største kino. Kinoen ligger på Majorstuen i Oslo og har fire saler i ulike størrelser hvorav den største, Colosseums sal 1, har 978 sitteplasser. Colosseums sal 1 har siden den ble sertifisert i 1998 vært verdens største THX-sertifiserte kinosal. Colosseum 1 har et lerret på 10×22 meter, og salen har siden juli 2009 kunnet vise digital 3D ved bruk av RealD.
+			</h5></div>
+		</div>
+		</div>
+
+		<div class ="knapper" id = "knapp20"><a class = "open" href="#knapp20">her</a></div>
+		<div id = "centerbox20">
+			<h4 class = "tittel">Saga Kino</h4>
+			<img class = "bilder" src="../pictures/SagaKino.jpg" alt="bilde av Saga">
+			<h5 class = "bildetekst">I 1981 ble Saga ombygget til kinosenter med 6 saler.</h5>
+			<div class = "tekstfelt"><h5 class = "tekst">Adresse: Stortingsgata 28, Oslo‎. Oslo Kino er Norges største kinovirksomhet og driver syv kinoer i Oslo: Colosseum, Gimle, Klingenberg, Ringen, Saga, Symra og Victoria (som tidligere het Vika). Kinoen ble åpnet 15. februar 1934. Den var tegnet av arkitektene Gudolf Blakstad og Herman Munthe-Kaas. Den hadde da én sal med parkett, galleri og losjer med til sammen 1345 plasser. 
+			</h5></div>
+		</div>
+		</div>
+
+	<div class ="knapper" id = "knapp21"><a class = "open" href="#knapp21">her</a></div>
+		<div id = "centerbox21">
+			<h4 class = "tittel">Klingenberg Kino</h4>
+			<img class = "bilder" src="../pictures/KlingenbergKino.JPG" alt="bilde av Klingenberkino">
+			<h5 class = "bildetekst">I 1995 ble inngangspartiet, publikumsarealene og hovedsalen fredet av Riksantikvaren.</h5>
+			<div class = "tekstfelt"><h5 class = "tekst">Adresse: Olav Vs gate 4, 0161 Oslo. Klingenberg kino er en kino i Vika i Oslo sentrum, ikke langt fra Nationaltheatret. Klingenberg kino ble bygget på tomten til Cirkus Verdensteater som ble revet i 1935. Kinoen åpnet 6. oktober 1938. Klingenberg har gjennomgått en rekke ombygginger, der seteantallet stadig har blitt redusert for å øke komforten og avstanden mellom seteradene.
+			</h5></div>
+		</div>
+		</div>
+	</div>
+
+	<div id = "Cinema">
+		<div class ="knapper" id = "knapp19"><a class = "open" href="#knapp19">her</a></div>
+		<div id = "centerbox19">
+			<h4 class = "tittel">Colosseum Cinema</h4>
+			<img class = "bilder" src="../pictures/ColosseumKino.jpg">
+			<h5 class = "bildetekst">Colosseum was designed by architects Jacob Hanssen and Gerhard Iversen and was completed in 1928.</h5>
+			<div class = "tekstfelt"><h5 class = "tekst">Adr: Fridtjof Nansens vei 6, 0369 Oslo. Colosseum Oslo Kino's largest cinema. The cinema is located on Majorstuen in Oslo and has four halls of different sizes including the largest, the Colosseum main hall, has 978 seats. Colosseum main hall since it was certified in 1998 was the world's largest THX-certified cinema. Colosseum 1 has a screen measuring 10 × 22 meters, the hall has since July 2009 been able to show digital 3D using RealD.
+			</h5></div>
+		</div>
+		</div>
+
+		<div class ="knapper" id = "knapp20"><a class = "open" href="#knapp20">her</a></div>
+		<div id = "centerbox20">
+			<h4 class = "tittel">Saga Cinema</h4>
+			<img class = "bilder" src="../pictures/SagaKino.jpg" alt="bilde av inngangen til Saga"> 
+			<h5 class = "bildetekst">In 1981, Saga converted into cinema center with 6 halls.</h5>
+			<div class = "tekstfelt"><h5 class = "tekst">Adr: Stortingsgata 28, Oslo‎. Oslo Kino Kino business and operates seven theaters in Oslo: Colosseum, Gimle, Klingenberg, Ring, Saga, Symra and Victoria (formerly known as Vika). The cinema was opened on 15 February 1934. Architects Gudolf Blakstad and Herman Munthe-Kaas designed it. It then had one room with parquet, gallery and lodges with a total of 1345 seats.
+			</h5></div>
+		</div>
+		</div>
+
+	<div class ="knapper" id = "knapp20"><a class = "open" href="#knapp20">her</a></div>
+		<div id = "centerbox20">
+			<h4 class = "tittel">Klingenberg Cinema</h4>
+			<img class = "bilder" src="../pictures/KlingenbergKino.JPG" alt="bilde av Klingenberg kino">
+			<h5 class = "bildetekst">In 1995, the entrance, the public areas and the main hall conservation of Cultural Heritage.</h5>
+			<div class = "tekstfelt"><h5 class = "tekst">Adr: Olav Vs gate 4, 0161 Oslo. Klingenberg cinema is a cinema in Vika in Oslo city center, not far from the National Theatre. Klingenberg cinema was built on the site of the Circus World Theatre which was demolished in 1935. The cinema opened on 6 October 1938. Klingenberg has undergone a number of modifications, which seat number has steadily been reduced in order to increase the comfort and seat pitch.
+			</h5></div>
+		</div>
+		</div>
+	</div>	
+	

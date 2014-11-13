@@ -1,0 +1,14 @@
+For å komme til start siden go inn i mappen oslokart->splash.2->html og gå
+inn i index html for å starte nettsiden
+
+vi satte oss et mål om få få en nettside som man kunne velge hva slags informasjon men ville 
+ha i et interaktivt kart med en målgruppe som var turister, men vi fant ut at vi også ville 
+ha en verson i norsk også. På grunn av kode begrensingen vi har fått ble det en del kode
+(vi savnet z-index)
+siden vi fortsatt ville få til ideen vår, håper dere liker den :)
+
+
+
+ps hvis du har liten skjerm zomm litt ut
+
+hilsen Gruppe 14

@@ -1,21 +1,27 @@
 @charset "utf-8" ;
 
 body{
-	background-image: url("../pictures/kart.png");
-	background-repeat: no-repeat;
 	/*border: 32px solid rgba(0,0,0,0.7);*/
 	margin : 0;
 	background-color: black;
+	height: auto;
 	}
 	/*Felles klasse for alle knappene*/
 
 
 	#bg {
+		background-image: url("../pictures/kart.png");
+		background-repeat: no-repeat;
 		position: relative;
+		height: 100%;
 	}
 
 
+<<<<<<< HEAD
 	.knapper a{
+=======
+	.knapperNed, .knapperOpp{
+>>>>>>> origin/master
 		height: 15px;
 		width: 15px;
 		background-color: red;
@@ -25,6 +31,7 @@ body{
 		margin: 0;
 		
 	}
+<<<<<<< HEAD
 
 	#box{
 		background-color:gray;
@@ -37,11 +44,30 @@ body{
 		
 	}
 	#knapp1:target #box{		
+=======
+<<<<<<< Updated upstream
+	#knapp1:target ~ .knapper{
+=======
+	.knapperNed:hover{
+		background-color: gray;
+		width: 40%;
+		height: 40%;
+		border-radius: 5px;
+		-webkit-transition: all 1s;
+>>>>>>> origin/master
 
 	}
 	
 
+<<<<<<< HEAD
 	.knapper:target ~ .knapper{
+=======
+	.knapperNed:hover ~ .knapperNed{
+		opacity: 0;
+	}
+	.knapperOpp:hover ~ .knapperOpp{
+>>>>>>> Stashed changes
+>>>>>>> origin/master
 		opacity: 0;
 	}
 	h4{
@@ -50,10 +76,18 @@ body{
 		left: 100px;
 		position: relative;
 		margin:0;
-		display:none;
+		
 	}
 
+<<<<<<< HEAD
 	.knapper:target h4{
+=======
+<<<<<<< Updated upstream
+	#knapp1:target h4{
+=======
+	.knapperNed:hover h4{
+>>>>>>> Stashed changes
+>>>>>>> origin/master
 		opacity: 1;
 		display:block;
 	}
@@ -67,13 +101,21 @@ body{
 		display: none;	
 		background-color: white;
 	}
+<<<<<<< HEAD
 	.knapper:target .bilder{
+=======
+<<<<<<< Updated upstream
+	.knapper:target .bilder{
+=======
+	.knapperNed:hover .bilder{
+>>>>>>> Stashed changes
+>>>>>>> origin/master
 		opacity: 1;
 		-webkit-transition: all 1s;
 		display: block;
 	}
 	img{
-		height: 200px;
+		height: 35%;
 	}
 	.tekstfelt{
 		right: 20px;
@@ -84,12 +126,21 @@ body{
 		
 
 	}
+<<<<<<< HEAD
 	.knapper:target .tekstfelt{
+=======
+<<<<<<< Updated upstream
+	#knapp1:target .tekstfelt{
+=======
+	.knapperNed:hover .tekstfelt{
+>>>>>>> Stashed changes
+>>>>>>> origin/master
 		opacity: 1;
 		-webkit-transition: all 1s;
 		background-color: white;
-		height: 400px;
-		width: 430px;
+		height: auto;
+		width: 40%;
+		margin-right: 7%;
 	}
 	h5{
 		display:none;
@@ -97,21 +148,37 @@ body{
 		margin-right: auto;
 		width: 70%;
 	}
+<<<<<<< HEAD
 	.knapper:target h5{
+=======
+<<<<<<< Updated upstream
+	.knapper:target h5{
+=======
+	.knapperNed:hover h5{
+>>>>>>> Stashed changes
+>>>>>>> origin/master
 		display: block;
 		-webkit-transition: all 1s;
 	}
 
 	#bildetekst{
 		font-size: 20px;
-		bottom: 200px;
+		bottom: 50%;
 		left: 0;
 		margin-left: 30px;
 		opacity: 0;
 		position: absolute;
 		display: none;
 	}
+<<<<<<< HEAD
 	.knapper:target #bildetekst{
+=======
+<<<<<<< Updated upstream
+	.knapper:target #bildetekst{
+=======
+	.knapperNed:hover #bildetekst{
+>>>>>>> Stashed changes
+>>>>>>> origin/master
 		opacity: 1;
 		display:block;
 		-webkit-transition: all 1s;
@@ -126,6 +193,7 @@ body{
 		-webkit-transition: all 1s;
 
 	}
+<<<<<<< HEAD
 	#sidebar:target{
 		width: 200px;
 		-webkit-transition: all 1s;
@@ -134,9 +202,39 @@ body{
 		opacity: 0;
 	}
 	#sidebar:target .lenker{
-		opacity: 1;
-		-webkit-transition: all 1s;
+=======
+	
+	.close{
+		text-decoration: none;
+		color: red;
+		position: absolute;
+		right:10px;
+		bottom: 0;
+		background-color: white;
+		opacity: 0;
 	}
+	.knapper:target #close{
+>>>>>>> origin/master
+		opacity: 1;
+	}
+
+	.open{
+		opacity: 0;
+	}
+
+	#centerBox{
+		background-color: gray;
+		height: 30em;
+		width: 60em;
+		position: absolute;
+		left: 30em;
+		top: 15em;
+		display: none;
+	}
+	#knapp1:target ~#centerBox{
+		display: block;
+	}
+
 
 /*----------------------------------------------------------------------------------------------*/
 
