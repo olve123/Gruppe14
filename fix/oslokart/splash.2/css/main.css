@@ -2,7 +2,6 @@
 
 body{
 	background: url("../bilder/oslo1.jpg") center center no-repeat;
-	background-size: 100%;
 	position: relative;	
 	-webkit-animation: fadeIn 3s;
 }
